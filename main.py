@@ -84,7 +84,6 @@ if __name__ == '__main__':
         [14, 'Chuva', 'Média', 'Alta', 'Sim', False],
     ]
 
-    print("---------------------||-------------------")
     print("Dataset: ")
     pprint(dataset)
     print("Decision tree:")
